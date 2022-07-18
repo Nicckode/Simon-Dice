@@ -35,6 +35,9 @@ background: #fa700079;
 display: flex;
 align-items: center;
 height: 100vh;
+background-image: url(./pexels-murilo-papini-6215967.jpg);
+background-position: center;
+background-size: cover;
 }
 
 .gameboard {
